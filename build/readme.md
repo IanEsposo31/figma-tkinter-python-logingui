@@ -1,6 +1,6 @@
-## This program integrates figma design to python ##
+# This program integrates figma design to python ##
 
-### First task in Hcw3 
+## First task in Hcw3 
 
 ### - 1st create a figma design (ex login gui)
 
